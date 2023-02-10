@@ -1,0 +1,18 @@
+1. Pre-requisite
+==========
+In order to run this program user should have Python3, ncbi-blast-2.2.29+ (blastp) and library scikit-learn
+
+2. Download Site
+============
+https://webs.iiitd.edu.in/raghava/hoppred/download.php
+https://github.com/raghavagps/hoppred
+
+3. Unzip/Untar
+
+4. Change dir to hoppred
+
+5. python3 hoppred.py -i peptide.fa
+
+
+
+

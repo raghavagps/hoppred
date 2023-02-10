@@ -1,0 +1,28 @@
+MERCI - Summary of options:
+ -p    merci_pos.fa
+ -n    merci_neg.fa
+ -k 	  10
+ -fp   1
+ -fn   0
+ -o    pos_motifs.txt
+ -l    10000
+ -s    10000
+ -c    NONE
+ -g    0
+ -gl   1
+ -para 0
+
+
+Motifs:
+ F G P R
+ W F G P
+ W F G P R
+ F G P R L
+ G P R L
+ W F G P R L
+ L C G S
+ M W F
+ M W F G
+ M W F G P
+ M W F G P R
+ M W F G P R L
