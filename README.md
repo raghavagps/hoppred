@@ -8,6 +8,9 @@ Peptide hormones serve as genome-encoded signal transduction molecules that play
 # Reference
 Kaur D, Arora A, Vigneshwar P, Raghava GPS (2024) Prediction of peptide hormones using an ensemble of machine learning and similarity-based methods. Proteomics, e2400004..
 
+# Zenodo
+https://doi.org/10.5281/zenodo.19910668
+
 # datasets folder
 Contain all the dataset
 
